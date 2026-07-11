@@ -109,20 +109,16 @@ Watch-History-Analyzer/
 
 ---
 
-## 🚀 Future Improvements
+## Roadmap
 
-- Case-insensitive searching
+Planned enhancements include:
+
 - User search by username
-- Genre-based analytics
-- Top 10 most watched shows
-- Most popular genres
-- CSV import/export
-- Binary file support
-- Faster sorting algorithms
+- Genre-wise analytics
+- Top watched shows ranking
+- CSV dataset support
 - Improved input validation
-- Interactive analytics dashboard
-
----
+  ---
 
 ## 💡 Design Philosophy
 
