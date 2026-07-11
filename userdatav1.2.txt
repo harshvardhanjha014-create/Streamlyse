@@ -1,0 +1,1369 @@
+Aarav Patel
+Sherlock
+Crime
+5480
+
+Priya Sharma
+Dark
+Sci-Fi
+7325
+
+Rohan Gupta
+Breaking Bad
+Crime
+4160
+
+Ananya Iyer
+The Crown
+Drama
+9835
+
+Kabir Mehta
+Bodies
+Sci-Fi
+2950
+
+Maya Reddy
+Luther
+Crime
+6812
+
+Vivaan Singh
+The Gentlemen
+Drama
+12450
+
+Ishita Kapoor
+Utopia
+Sci-Fi
+5278
+
+Neil Desai
+Happy Valley
+Crime
+8540
+
+Diya Nair
+Doctor Who
+Sci-Fi
+6135
+
+Arjun Malhotra
+Peaky Blinders
+Crime
+10540
+
+Sneha Joshi
+The Night Manager
+Drama
+8120
+
+Kunal Verma
+Stranger Things
+Sci-Fi
+11420
+
+Aisha Chawla
+Ozark
+Drama
+6925
+
+Dev Khanna
+Black Mirror
+Sci-Fi
+7810
+
+Riya Sinha
+Succession
+Drama
+12960
+
+Aryan Saxena
+Westworld
+Sci-Fi
+9340
+
+Meera Rao
+Mindhunter
+Crime
+7555
+
+Nikhil Anand
+The Witcher
+Fantasy
+8725
+
+Pooja Menon
+Narcos
+Crime
+9680
+
+Rahul Bhatt
+Money Heist
+Crime
+5830
+
+Sana Mirza
+The Last Kingdom
+History
+11010
+
+Krish Patel
+Arcane
+Animation
+6480
+
+Nisha Agarwal
+Wednesday
+Fantasy
+7145
+
+Yash Kapoor
+Alice in Borderland
+Sci-Fi
+8935
+
+Tanya Shah
+House of Cards
+Drama
+10275
+
+Aditya Kulkarni
+The Mandalorian
+Sci-Fi
+8150
+
+Simran Gill
+The Boys
+Action
+5675
+
+Vihaan Bose
+Severance
+Sci-Fi
+6425
+
+Kavya Bansal
+The Office
+Comedy
+9045
+
+Sameer Jain
+Friends
+Comedy
+7885
+
+Aditi Mishra
+Dexter
+Crime
+10160
+
+Harsh Vora
+You
+Thriller
+12080
+
+Neha Pillai
+Prison Break
+Crime
+9560
+
+Aman Arora
+Suits
+Drama
+4930
+
+Shreya Basu
+The Wire
+Crime
+8565
+
+Rishi Narang
+True Detective
+Crime
+9730
+
+Tanvi Sethi
+Lost
+Drama
+6235
+
+Siddharth Kohli
+1899
+Sci-Fi
+10980
+
+Anika Das
+The Haunting of Hill House
+Horror
+7350
+
+Varun Chopra
+The Queen's Gambit
+Drama
+11740
+
+Palak Tiwari
+Chernobyl
+Drama
+6680
+
+Rajat Oberoi
+The Umbrella Academy
+Sci-Fi
+8210
+
+Mitali Ghosh
+Loki
+Sci-Fi
+7760
+
+Dhruv Arora
+The Punisher
+Action
+5475
+
+Ira Sen
+Vikings
+History
+8420
+
+Ayaan Kapoor
+House of the Dragon
+Fantasy
+9985
+
+Zara Naidu
+The Walking Dead
+Horror
+7050
+
+Rudra Bhattacharya
+The Last of Us
+Drama
+8810
+
+Nandini Saxena
+The Night Agent
+Action
+9365
+
+Arnav Sehgal
+Bridgerton
+Drama
+11230
+
+Ishaan Khatri
+Reacher
+Action
+7940
+
+Misha Talwar
+Manifest
+Sci-Fi
+12175
+
+Vedant Goyal
+The Diplomat
+Drama
+8625
+
+Rhea Bedi
+The Lincoln Lawyer
+Drama
+6845
+
+Parth Mahajan
+The Recruit
+Action
+7495
+
+Kiara Mathur
+The Residence
+Mystery
+10810
+
+Akash Chandra
+The Fall
+Crime
+5965
+
+Anvi Dutta
+Lupin
+Crime
+7790
+
+Om Trivedi
+Bosch
+Crime
+6550
+
+Jiya Luthra
+Foundation
+Sci-Fi
+9180
+
+Samar Walia
+Silo
+Sci-Fi
+5125
+
+Eesha Fernandes
+The Penguin
+Crime
+8395
+
+Hrithik Bhatia
+Slow Horses
+Thriller
+9725
+
+Myra Choudhury
+Adolescence
+Drama
+6040
+
+Shaurya Puri
+Ripley
+Thriller
+11360
+
+Anaya Sood
+Black Doves
+Drama
+8850
+
+Karan Suri
+Sherlock
+Crime
+9520
+
+Ritika Paul
+Dark
+Sci-Fi
+7260
+
+Aarush Modi
+Breaking Bad
+Crime
+6415
+
+Navya Bhasin
+The Crown
+Drama
+10790
+
+Reyansh Menon
+Bodies
+Sci-Fi
+5980
+
+Aanya Mehra
+Luther
+Crime
+8475
+
+Vir Kapoor
+The Gentlemen
+Drama
+11560
+
+Trisha Anand
+Utopia
+Sci-Fi
+6890
+
+Yuvraj Nanda
+Happy Valley
+Crime
+7765
+
+Saanvi Kohli
+Doctor Who
+Sci-Fi
+9345
+
+Dhruv Patel
+Peaky Blinders
+Crime
+10230
+
+Mihika Jain
+The Night Manager
+Drama
+7285
+
+Armaan Shah
+Stranger Things
+Sci-Fi
+8695
+
+Riddhi Sinha
+Ozark
+Drama
+9155
+
+Krishna Reddy
+Black Mirror
+Sci-Fi
+5845
+
+Ishani Rao
+Succession
+Drama
+7620
+
+Raghav Khurana
+Westworld
+Sci-Fi
+11890
+
+Avni Malhotra
+Mindhunter
+Crime
+6940
+
+Abeer Singh
+The Witcher
+Fantasy
+10950
+
+Nitya Verma
+Narcos
+Crime
+8135
+
+Rohit Bansal
+Money Heist
+Crime
+9735
+
+Pallavi Mehta
+The Last Kingdom
+History
+7420
+
+Sai Iyer
+Arcane
+Animation
+6810
+
+Tanisha Kapoor
+Wednesday
+Fantasy
+5375
+
+Laksh Sharma
+Alice in Borderland
+Sci-Fi
+10480
+
+Niharika Gupta
+House of Cards
+Drama
+8960
+
+Advik Chawla
+The Mandalorian
+Sci-Fi
+11820
+
+Prisha Desai
+The Boys
+Action
+7850
+
+Vivaan Nair
+Severance
+Sci-Fi
+9140
+
+Sara Khanna
+The Office
+Comedy
+6325
+
+Keshav Arora
+Friends
+Comedy
+5670
+
+Ishika Menon
+Dexter
+Crime
+9875
+
+Arya Kulkarni
+You
+Thriller
+8740
+
+Devansh Bose
+Prison Break
+Crime
+12010
+
+Meher Gill
+Suits
+Drama
+7365
+
+Aarav Sharma
+Sherlock
+Crime
+5480
+
+Mei Lin
+Dark
+Sci-Fi
+7325
+
+Kenji Tanaka
+Breaking Bad
+Crime
+4160
+
+Ji-hoon Kim
+The Crown
+Drama
+9835
+
+Nguyen Minh
+Bodies
+Sci-Fi
+2950
+
+Ananya Iyer
+Luther
+Crime
+6812
+
+Haruto Sato
+The Gentlemen
+Drama
+12450
+
+Aisha Khan
+Utopia
+Sci-Fi
+5278
+
+Wei Zhang
+Happy Valley
+Crime
+8540
+
+Priya Patel
+Doctor Who
+Sci-Fi
+6135
+
+Yuki Nakamura
+Peaky Blinders
+Crime
+10540
+
+Siti Rahman
+The Night Manager
+Drama
+8120
+
+Rohan Gupta
+Stranger Things
+Sci-Fi
+11420
+
+Hye-jin Park
+Ozark
+Drama
+6925
+
+Chen Wei
+Black Mirror
+Sci-Fi
+7810
+
+Fatima Ahmed
+Succession
+Drama
+12960
+
+Aditya Mehta
+Westworld
+Sci-Fi
+9340
+
+Akira Suzuki
+Mindhunter
+Crime
+7555
+
+Maria Santos
+The Witcher
+Fantasy
+8725
+
+Tran Quang
+Narcos
+Crime
+9680
+
+Rahul Verma
+Money Heist
+Crime
+5830
+
+Nur Aisyah
+The Last Kingdom
+History
+11010
+
+Sun-woo Lee
+Arcane
+Animation
+6480
+
+Kavya Nair
+Wednesday
+Fantasy
+7145
+
+Rizky Pratama
+Alice in Borderland
+Sci-Fi
+8935
+
+Lakshmi Menon
+House of Cards
+Drama
+10275
+
+Hiroshi Yamamoto
+The Mandalorian
+Sci-Fi
+8150
+
+Farhan Ali
+The Boys
+Action
+5675
+
+Xiao Chen
+Severance
+Sci-Fi
+6425
+
+Nimal Perera
+The Office
+Comedy
+9045
+
+Oliver Bennett
+Sherlock
+Crime
+5480
+
+Sophie Dubois
+Lupin
+Crime
+7325
+
+Luca Romano
+Gomorrah
+Crime
+4160
+
+Emma Walker
+The Crown
+Drama
+9835
+
+Noah Schneider
+Dark
+Sci-Fi
+2950
+
+Isabelle Martin
+Marseille
+Drama
+6812
+
+Arthur Sinclair
+Bodies
+Sci-Fi
+12450
+
+Mia Andersson
+Young Royals
+Drama
+5278
+
+Jakub Kowalski
+1983
+Sci-Fi
+8540
+
+Charlotte Hughes
+Doctor Who
+Sci-Fi
+6135
+
+Elias Johansson
+Clark
+Crime
+10540
+
+Grace Palmer
+The Night Manager
+Drama
+8120
+
+Matteo Ricci
+Suburra
+Crime
+11420
+
+Amelia Foster
+Peaky Blinders
+Crime
+6925
+
+Hugo Moreau
+The Break
+Crime
+7810
+
+Emily Carter
+Black Mirror
+Sci-Fi
+12960
+
+William Parker
+Broadchurch
+Crime
+9340
+
+Clara Müller
+Biohackers
+Sci-Fi
+7555
+
+Daniel Brooks
+The Gentlemen
+Drama
+8725
+
+Alice Laurent
+Into the Night
+Sci-Fi
+9680
+
+Oscar Turner
+The Rain
+Sci-Fi
+5830
+
+Freya Mitchell
+Happy Valley
+Crime
+11010
+
+Jonas Berg
+The Chestnut Man
+Crime
+6480
+
+Eva Novak
+Katla
+Sci-Fi
+7145
+
+Benjamin Foster
+The Valhalla Murders
+Crime
+8935
+
+Camille Bernard
+Represent
+Comedy
+10275
+
+Leo Jenkins
+The Diplomat
+Drama
+8150
+
+Ella Adams
+The Crown
+Drama
+5675
+
+Felix Wagner
+Dogs of Berlin
+Crime
+6425
+
+Lucy Bennett
+Bodyguard
+Thriller
+9045
+
+Thomas Reed
+The Capture
+Thriller
+7885
+
+Julia Costa
+Gloria
+Thriller
+10160
+
+James Robinson
+The Stranger
+Mystery
+12080
+
+Hannah Price
+The English Game
+Drama
+9560
+
+Max Fischer
+Barbarians
+History
+4930
+
+Elena Rossi
+Baby
+Drama
+8565
+
+Harry Cooper
+The Fall
+Crime
+9730
+
+Sofia Dimitriou
+Maestro in Blue
+Drama
+6235
+
+Adam Collins
+The Tourist
+Thriller
+10980
+
+Nora Svensson
+Quicksand
+Drama
+7350
+
+Samuel Hughes
+Safe
+Thriller
+11740
+
+Victoria Green
+Behind Her Eyes
+Thriller
+6680
+
+Niklas Olsen
+Borgen
+Drama
+8210
+
+Claire Bennett
+Stay Close
+Mystery
+7760
+
+Louis Petit
+Family Business
+Comedy
+5475
+
+Bella Parker
+The Playlist
+Drama
+8420
+
+Gabriel Harris
+Occupied
+Drama
+9985
+
+Emma Novak
+Ragnarok
+Fantasy
+7050
+
+Alexander Lewis
+Young Wallander
+Crime
+8810
+
+Mila Petrović
+Black Spot
+Mystery
+9365
+
+Nathan Bailey
+The Spy
+Thriller
+11230
+
+Ruby Walker
+Criminal: UK
+Crime
+7940
+
+Christopher King
+Criminal: Germany
+Crime
+12175
+
+Isla Thornton
+Criminal: France
+Crime
+8625
+
+David Miller
+Criminal: Spain
+Crime
+6845
+
+Scarlett Mitchell
+The Woods
+Mystery
+7495
+
+Henry Collins
+A Nearly Normal Family
+Drama
+10810
+
+Chloe Foster
+Deadwind
+Crime
+5965
+
+Edward Spencer
+Trapped
+Crime
+7790
+
+Eleanor Brooks
+Beforeigners
+Sci-Fi
+6550
+
+Michael Johnson
+Breaking Bad
+Crime
+8125
+
+Emma Williams
+The Crown
+Drama
+6940
+
+David Smith
+Dark
+Sci-Fi
+10560
+
+Olivia Brown
+The Witcher
+Fantasy
+7835
+
+James Miller
+Narcos
+Crime
+9180
+
+Sophia Davis
+Wednesday
+Fantasy
+6520
+
+Daniel Wilson
+Black Mirror
+Sci-Fi
+8840
+
+Charlotte Moore
+Ozark
+Drama
+7425
+
+Benjamin Taylor
+The Boys
+Action
+11230
+
+Amelia Anderson
+Friends
+Comedy
+5610
+
+Liam Thomas
+Sherlock
+Crime
+9875
+
+Harper Jackson
+Bridgerton
+Drama
+7750
+
+Noah White
+Severance
+Sci-Fi
+10340
+
+Evelyn Harris
+The Last of Us
+Drama
+8910
+
+Lucas Martin
+House of Cards
+Drama
+6445
+
+Abigail Thompson
+Manifest
+Sci-Fi
+7020
+
+William Garcia
+Dexter
+Crime
+9585
+
+Scarlett Martinez
+Arcane
+Animation
+5930
+
+Elijah Robinson
+Mindhunter
+Crime
+8265
+
+Grace Clark
+The Bear
+Drama
+7195
+
+Ethan Rodriguez
+Peaky Blinders
+Crime
+11045
+
+Chloe Lewis
+Westworld
+Sci-Fi
+8560
+
+Alexander Lee
+Money Heist
+Crime
+9955
+
+Ella Walker
+The Night Agent
+Action
+7355
+
+Mason Hall
+The Sandman
+Fantasy
+8120
+
+Victoria Allen
+The Office
+Comedy
+4980
+
+Logan Young
+Foundation
+Sci-Fi
+10825
+
+Lily Hernandez
+The Diplomat
+Drama
+6645
+
+Aiden King
+The Penguin
+Crime
+9340
+
+Zoe Wright
+The Lincoln Lawyer
+Drama
+6875
+
+Ethan Carter
+Reacher
+Action
+10190
+
+Emily Scott
+Ripley
+Thriller
+8475
+
+Jacob Green
+Bosch
+Crime
+6285
+
+Natalie Adams
+The Fall
+Crime
+7920
+
+Ryan Nelson
+The Gentlemen
+Drama
+7435
+
+Claire Baker
+Lupin
+Crime
+9260
+
+Mason Hill
+True Detective
+Crime
+9720
+
+Hannah Campbell
+The Residence
+Mystery
+5810
+
+Owen Mitchell
+The Recruit
+Action
+8940
+
+Avery Perez
+The Mandalorian
+Sci-Fi
+9580
+
+Liam Anderson
+The Wire
+Crime
+11640
+
+Emily Cooper
+The Queen's Gambit
+Drama
+8425
+
+Noah Bennett
+Silo
+Sci-Fi
+9130
+
+Charlotte Murphy
+You
+Thriller
+6040
+
+Benjamin Morgan
+Chernobyl
+Drama
+9975
+
+Sophia Parker
+House of the Dragon
+Fantasy
+8640
+
+Aiden Brooks
+The Walking Dead
+Horror
+11125
+
+Grace Reed
+Lost
+Drama
+7725
+
+Daniel Foster
+Slow Horses
+Thriller
+7485
+
+Emma Hughes
+Doctor Who
+Sci-Fi
+8145
+
+Kwame Mensah
+Luther
+Crime
+9655
+
+Ama Serwaa
+Bodies
+Sci-Fi
+7345
+
+Thabo Ndlovu
+Prison Break
+Crime
+10285
+
+Zanele Khumalo
+The Night Manager
+Drama
+8465
+
+Kofi Boateng
+Narcos
+Crime
+8845
+
+Amina Hassan
+Black Doves
+Drama
+6290
+
+Samuel Okoro
+Sherlock
+Crime
+9375
+
+Nia Kamau
+Dark
+Sci-Fi
+10065
+
+Tendai Moyo
+The Boys
+Action
+11520
+
+Chiamaka Obi
+The Crown
+Drama
+7565
+
+Ibrahim Diallo
+Ozark
+Drama
+8130
+
+Fatou Ndiaye
+Wednesday
+Fantasy
+6785
+
+David Mwangi
+Mindhunter
+Crime
+9255
+
+Ruth Adeyemi
+Arcane
+Animation
+5585
+
+Peter Osei
+Bosch
+Crime
+7340
+
+Mercy Abebe
+Friends
+Comedy
+5220
+
+John Mbeki
+Dexter
+Crime
+10410
+
+Linda Njeri
+Westworld
+Sci-Fi
+8675
+
+Kelvin Banda
+Foundation
+Sci-Fi
+10985
+
+Adaeze Okafor
+Manifest
+Sci-Fi
+7015
+
+Victor Eze
+The Diplomat
+Drama
+7795
+
+Grace Kone
+The Bear
+Drama
+6430
+
+Brian Otieno
+Peaky Blinders
+Crime
+10780
+
+Esther Toure
+Money Heist
+Crime
+9455
+
+Andrew Fraser
+The Last Kingdom
+History
+8185
+
+Sophie MacDonald
+Vikings
+History
+9725
+
+Nathan Sinclair
+The Umbrella Academy
+Sci-Fi
+8330
+
+Lucy Morrison
+Loki
+Sci-Fi
+8960
+
+Connor Wallace
+The Punisher
+Action
+10155
+
+Madison Brooks
+Succession
+Drama
+7740
+
+Jacob Campbell
+Happy Valley
+Crime
+8420
+
+Hailey Turner
+1899
+Sci-Fi
+7655
